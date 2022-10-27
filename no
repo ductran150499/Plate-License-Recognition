@@ -1,0 +1,29 @@
+[33mcommit ab7373c23dcb377f39a33d2b3c45a38b7c1be4ed[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: ductran150499 <ductran.150499@gmail.com>
+Date:   Wed Oct 26 22:53:28 2022 +0700
+
+    Add Accuracy_wpod_long.xlsx file
+
+[33mcommit 26ac2acc8aa3ae44ffedceb322204247d61826a7[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: ductran150499 <ductran.150499@gmail.com>
+Date:   Wed Oct 26 22:46:48 2022 +0700
+
+    Add tes_folder into project
+
+[33mcommit 8388b5cc58cc9e6a3402f3d837fd5e1e96b26c2e[m
+Author: ductran150499 <ductran.150499@gmail.com>
+Date:   Wed Oct 26 22:44:49 2022 +0700
+
+    Add Accuracy_wpod.xlsx file
+
+[33mcommit b92baef467c42f32dfa720daaf71de30e10842c7[m
+Author: ductran150499 <ductran.150499@gmail.com>
+Date:   Wed Oct 26 22:40:33 2022 +0700
+
+    Add .idea folder and recognition.py file
+
+[33mcommit 1e900cdacbba9391c84b9c6bf26d05d96f472ebe[m
+Author: ductran150499 <ductran.150499@gmail.com>
+Date:   Wed Oct 26 22:32:40 2022 +0700
+
+    Add new file into project
